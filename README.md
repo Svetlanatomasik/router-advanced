@@ -4,4 +4,5 @@
 Technologies that I used in the app:
 
 -React
+
 -CSS Modules 
